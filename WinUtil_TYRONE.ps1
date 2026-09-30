@@ -15239,12 +15239,12 @@ $scripts = @(
 
 '@
 Write-Host @"
-█████   █   █   ████     ███    █   █   █████
-  █     █   █   █   █   █   █   ██  █   █    
-  █      █ █    █   █   █   █   █ █ █   █    
-  █       █     ████    █   █   █  ██   ████ 
-  █       █     █  █    █   █   █   █   █    
-  █       █     █   █    ███    █   █   █    
+
+TTTTTTTTTT  Y       Y  RRRRRR    OOOOO   N      N  EEEEEEEE
+    TT       Y     Y   R     R  O     O  NN     N  E
+    TT        Y   Y    RRRRRR   O     O  N N    N  EEEEEE
+    TT         Y Y     R   R    O     O  N  N   N  E
+    TT          Y      R    RR   OOOOO   N   N  N  EEEEEEEE
 
 ================ Feito por TYRONE ================
 ================ Nome: TYRONE ====================
